@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "t5-laskin",
-    "slug": "t5-laskin",
+    "name": "t5-laskin-Janne-F",
+    "slug": "t5-laskin-janne-f",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
